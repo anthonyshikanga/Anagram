@@ -1,4 +1,4 @@
-sourc('https://rubygems.org')
+source('https://rubygems.org')
 
 gem('sinatra')
 gem('sinatra-contrib')
